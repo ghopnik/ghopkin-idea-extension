@@ -1,2 +1,3 @@
-# ghopkin-idea-extension
-IntelliJ Idea extension for ghopnik
+# ghopnik extension for IntelliJ Idea
+
+Welcome aboard!
